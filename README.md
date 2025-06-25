@@ -26,8 +26,8 @@ Tableau public - sharing dashboard online
 
 
 **Featured Projects**                                                                                                                                                                                                
-U.S household income analysis (https://github.com/Goitom74/U.S-household-income-analysis) 
+U.S household income analysis (https://github.com/Goitom74/U.S-household-income-analysis). 
 Explores how income varies by State and region using SQL
 
-
+Call center Dashboard ()                                                                                                                                                                                             Visualize agent performance and call outcomes in Tableau.
 
