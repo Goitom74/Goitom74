@@ -1,16 +1,17 @@
-## Hi there 👋
+As a data analyst transitioning from an agricultural and environmental research background, I provide both domain knowledge and analytical expertise. The tools and skills I use to drive data-driven insights include:
 
-<!--
-**Goitom74/Goitom74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analysis and Visualization
+Tableau - Interactive dashboards and KPI tracking
+Microsoft Excel - Pivot tables, data cleaning, Advanced formulas
 
-Here are some ideas to get you started:
+Data Managment and Querying
+SQL(MySQL) - Joins, aggregations, subqueries, data transformation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Domain Expereince
+Environmental and agricultural data (soil, water, crop data)
+Public sector data (such as income, demogaphics, debt, transportation)
+Customer behaviour (such as churn, call center perofrmance)
+
+Other tools
+Github - Project collaboration
+Tableau public - sharing dashboard online
