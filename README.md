@@ -14,7 +14,7 @@ SQL(MySQL) - Joins, aggregations, subqueries, data transformation
 
 Environmental and agricultural data (soil, water, crop data)
 
-Public sector data (such as income, demogaphics, debt, transportation)
+Public sector data (such as income, demographics, debt, transportation)
 
 Customer behaviour (such as churn, call center performance)
 
