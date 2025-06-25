@@ -22,8 +22,9 @@ Customer behaviour (such as churn, call center performance)
 
 Github - Project collaboration
 
-Tableau public - sharing dashboard online
+Tableau public - sharing dashboard online                                                                                                                                                                           
 
-**Featured Projects**
+
+**Featured Projects**                                                                                                                                                                                                
 
 
