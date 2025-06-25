@@ -33,5 +33,5 @@ Call center Dashboard (https://public.tableau.com/app/profile/goitom.adhanom/viz
 
 Customer churn Dashboard (https://public.tableau.com/app/profile/goitom.adhanom/viz/Churndashboard_17458885543680/ChurnDashboard).                                                                                  Aanalyze the effect of contract type, tenure, and payment method on churn using Tableau.
 
-World Life Expectancy Insights ().                                                                                                                                                                                  Compare life expectancy across countries and development status.
+World Life Expectancy Insights (https://github.com/Goitom74/World-life-expectancy-analysis-by-country-and-development-status).                                                                                      Compare life expectancy across countries and development status.
 
