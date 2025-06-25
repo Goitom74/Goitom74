@@ -1,6 +1,6 @@
 As a data analyst transitioning from an agricultural and environmental research background, I provide both domain knowledge and analytical expertise. The tools and skills I use to drive data-driven insights include:
 
-**Data Analysis and Visualization**
+**Data Analysis and Visualization**                                                                                                                                                                                    
 
 Tableau - Interactive dashboards and KPI tracking
 Microsoft Excel - Pivot tables, data cleaning, Advanced formulas
