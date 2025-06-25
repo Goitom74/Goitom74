@@ -10,13 +10,13 @@ Microsoft Excel - Pivot tables, data cleaning, Advanced formulas
 
 SQL(MySQL) - Joins, aggregations, subqueries, data transformation
 
-**Domain Expereince**
+**Domain Experience**
 
 Environmental and agricultural data (soil, water, crop data)
 
 Public sector data (such as income, demogaphics, debt, transportation)
 
-Customer behaviour (such as churn, call center perofrmance)
+Customer behaviour (such as churn, call center performance)
 
 **Other tools**
 
