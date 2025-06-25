@@ -37,4 +37,7 @@ World Life Expectancy Insights (https://github.com/Goitom74/World-life-expectanc
 
 Bus breakdown and delays: Excel analysis and insights (https://github.com/Goitom74/Data-Analysis-and-insights-Bus-breakdown-and-delays/tree/main?tab=readme-ov-file#readme).                                        Explores patterns, uncover common causes of delays, and provide insights that can help to improve reliability and safety in transportation systems.
 
+**Connect with Me**
+Email: goitomta@gmail.com
+Tableau
 
